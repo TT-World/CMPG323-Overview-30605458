@@ -48,38 +48,55 @@
        https://drive.google.com/file/d/1CLHEkvPrrTkp-dXXQDSLop--HtWNa2OR/view?usp=sharing
     <hr>
   3. The branching strategy to be used within each project
-     <table style="width:100%">
+  <table style="width:100%">
   <tr>
     <th>Project No</th>
-    <th>Branching Strategy</th>
-        
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>GitFlow</td>
-        
+    <th>Branching Strategy</th>        
   </tr>
   <tr>
     <td>2</td>
-    <td>GitFlow</td>
-   
+    <td>GitFlow</td>   
   </tr>
   <tr>
     <td>3</td>
-    <td>GitFlow</td>
-    
+    <td>GitFlow</td>    
   </tr>
   <tr>
     <td>4</td>
-    <td>GitFlow</td>
-    
+    <td>GitFlow</td>    
   </tr>
   <tr>
     <td>5</td>
-    <td>Trunk-based development</td>
-  
+    <td>Trunk-based development</td>  
   </tr>
   </table>
+    
+ <hr>
+ 4. The use of a .gitignore file within each project
+ <table style="width:100%">
+  <tr>
+    <th>Project No</th>
+    <th>Use of a .gitignore</th>        
+     </tr>
+  <tr>
+    <td>2</td>
+    <td>Password Credential Security</td>   
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Password Credential Security</td>    
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Password Credential Security</td>    
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Password Credential Security</td>  
+  </tr>
+  </table>
+         
+ 
 </body>
 </html>
 
