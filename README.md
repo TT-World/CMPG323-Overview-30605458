@@ -44,6 +44,8 @@
   </table>
   <hr>
   2. I am  going to create a single project called <b><em>CMPG323 - 30605458: Kanban Project Plan Guide</em></b> and link all repositories to this one project. This        project will track all the activities of all the other projects and their progress.
+     Here is the diagram below
+   <img src="https://drive.google.com/file/d/1CLHEkvPrrTkp-dXXQDSLop--HtWNa2OR/view?usp=sharing" alt="Diagram Image">
 </body>
 </html>
 
