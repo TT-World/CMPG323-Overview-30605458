@@ -20,7 +20,7 @@
   <tr>
     <td>1</td>
     <td>Agile & Scrum</td>
-    <td>CMPG 323 Overview -30605458</td>    
+    <td>CMPG 323 Overview-30605458</td>    
   </tr>
   <tr>
     <td>2</td>
