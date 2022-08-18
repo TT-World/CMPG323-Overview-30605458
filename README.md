@@ -47,6 +47,7 @@
      Here is the diagram below
        https://drive.google.com/file/d/1CLHEkvPrrTkp-dXXQDSLop--HtWNa2OR/view?usp=sharing
     <hr>
+    
   3. The branching strategy to be used within each project
   <table style="width:100%">
   <tr>
@@ -95,7 +96,11 @@
     <td>Password Credential Security</td>  
   </tr>
   </table>
-         
+ <hr>
+    
+ 5. Storage of credentials and sensitive information<br>
+     Storage of credential and sensitive information will not be stored in in github repositories. It will be stored in cloud for safety because all this project.
+     I am going to make them public. Saving them in the cloud they will only be accessed only by authorized users.
  
 </body>
 </html>
