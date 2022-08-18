@@ -46,6 +46,40 @@
   2. I am  going to create a single project called <b><em>CMPG323 - 30605458: Kanban Project Plan Guide</em></b> and link all repositories to this one project. This        project will track all the activities of all the other projects and their progress.
      Here is the diagram below
    <img src="https://drive.google.com/file/d/1CLHEkvPrrTkp-dXXQDSLop--HtWNa2OR/view?usp=sharing" alt="Diagram Image">
+    <hr>
+  3. The branching strategy to be used within each project
+     <table style="width:100%">
+  <tr>
+    <th>Project No</th>
+    <th>Branching Strategy</th>
+        
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>GitFlow</td>
+        
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>GitFlow</td>
+   
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>GitFlow</td>
+    
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>GitFlow</td>
+    
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Trunk-based development</td>
+  
+  </tr>
+  </table>
 </body>
 </html>
 
