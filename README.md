@@ -7,8 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <hr>
-  <H4>The following repositories will be created and used for each project<H4>
+  1. The following repositories will be created and used for each project.
  
   
   <table style="width:100%">
@@ -43,7 +42,8 @@
     <td>CMPG 323 Project 5-30605458</td>
   </tr>
   </table>
-  <p>For now I am not quite sure if I am  going to create a single project and link some of the above if not all repositories to this one project. But, I think by the time I will be busy with project 2 I will have an idea.</p>
+  <hr>
+  2. I am  going to create a single project called <b><em>CMPG323 - 30605458: Kanban Project Plan Guide</em></b> and link all repositories to this one project. This        project will track all the activities of all the other projects and their progress.
 </body>
 </html>
 
