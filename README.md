@@ -60,7 +60,7 @@
   </tr>
   <tr>
     <td>3</td>
-    <td></td>    
+    <td>GitFlow</td>    
   </tr>
   <tr>
     <td>4</td>
