@@ -56,11 +56,11 @@
   </tr>
   <tr>
     <td>2</td>
-    <td>GitFlow</td>   
+    <td>Trunk-based development</td>   
   </tr>
   <tr>
     <td>3</td>
-    <td>GitFlow</td>    
+    <td></td>    
   </tr>
   <tr>
     <td>4</td>
