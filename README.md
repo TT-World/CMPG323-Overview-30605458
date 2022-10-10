@@ -16,6 +16,7 @@
     <th>Project Description</th>
     <th>Project Repository</th>    
   </tr>
+  
   <tr>
     <td>1</td>
     <td>Agile & Scrum</td>
@@ -54,6 +55,11 @@
     <th>Project No</th>
     <th>Branching Strategy</th>        
   </tr>
+  <tr>
+    <td>1</td>
+    <td>Trunk-based development</td>   
+  </tr>
+  <tr>
   <tr>
     <td>2</td>
     <td>Trunk-based development</td>   
