@@ -1,5 +1,5 @@
 # CMPG323-Overview-30605458
-# This repository is an overview repository for CMPG323 projects. This repo will provide information about all the projects and tasks that I will be doing throughout the semester. 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,6 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+    This repository is an overview repository for CMPG323 projects. This repo will provide information about all the projects and tasks that I will be doing throughout the semester. <br><br>
   1. The following repositories will be created and used for each project.
  
   
