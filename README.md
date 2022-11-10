@@ -97,7 +97,7 @@
   </tr>
   <tr>
     <td>4</td>
-    <td>Password Credential Security</td>    
+    <td>The .gitignore file was not used for this project</td>    
   </tr>
   <tr>
     <td>5</td>
