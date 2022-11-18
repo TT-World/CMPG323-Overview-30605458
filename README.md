@@ -2,7 +2,17 @@
 
    
   
-  ## This repository is an overview repository for CMPG323 projects. This repository will provide information about all the projects and tasks that I will be doing         throughout the semester. After completion of any project the overview repository will be updated.
+  This repository is an overview repository for CMPG323 projects. This repository will provide information about all the projects and tasks that I will be doing         throughout the semester. After completion of any project the overview repository will be updated.
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
   
   
   
@@ -44,9 +54,11 @@
   <hr>
   2. I am  going to create a single project called <b><em>CMPG323 - 30605458: Kanban Project Plan Guide</em></b> and link all repositories to this one project. This        project will track all the activities of all the other projects and their progress.
      Here is the diagram below
-       https://drive.google.com/file/d/1CLHEkvPrrTkp-dXXQDSLop--HtWNa2OR/view?usp=sharing<br>
-       ![Flowchart](https://user-images.githubusercontent.com/46784262/202709866-a463ee73-f895-42b3-8fdc-778b7937d24e.png)
-    <hr>
+   
+ 
+![Flowchart](https://user-images.githubusercontent.com/46784262/202713395-b2240211-f6b6-49d7-9d23-310c649c1ccc.png)
+       
+   
     
   3. The branching strategy to be used within each project
   <table style="width:100%">
