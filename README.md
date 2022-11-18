@@ -1,7 +1,12 @@
 # CMPG323-Overview-30605458
 
-    This repository is an overview repository for CMPG323 projects. This repo will provide information about all the projects and tasks that I will be doing throughout the semester. <br><br>
-  1. The following repositories will be created and used for each project.
+   
+  
+  This repository is an overview repository for CMPG323 projects. This repository will provide information about all the projects and tasks that I will be doing         throughout the semester. After completion of any project the overview repository will be updated.
+  
+  
+  
+1. The following repositories will be created and used for each project.
  
   
   <table style="width:100%">
