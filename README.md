@@ -1,13 +1,5 @@
 # CMPG323-Overview-30605458
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
     This repository is an overview repository for CMPG323 projects. This repo will provide information about all the projects and tasks that I will be doing throughout the semester. <br><br>
   1. The following repositories will be created and used for each project.
  
@@ -110,6 +102,4 @@
      Storage of credential and sensitive information will not be stored in in github repositories. It will be stored in cloud for safety because all this project.
      I am going to make them public. Saving them in the cloud they will only be accessed only by authorized users.
  
-</body>
-</html>
 
