@@ -118,11 +118,7 @@
  5. Storage of credentials and sensitive information<br>
  Storage of credential and sensitive information will not be stored in in github repositories. It will be stored in cloud for safety because all this project.
      I am going to make them public. Saving them in the cloud they will only be accessed only by authorized users.<br>
- 7. dasa
- 8. sas
- 9. as
- 10. asas
- 11. aas
+ 7. 
      
  
 
